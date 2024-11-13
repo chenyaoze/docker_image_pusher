@@ -1,2 +1,2 @@
 #可以加后缀版本名字 具体到https://hub.docker.com/查看
-apacherocketmq/rocketmq-dashboard:latest
+apache/rocketmq:4.9.6
