@@ -1,2 +1,2 @@
 #可以加后缀版本名字 具体到https://hub.docker.com/查看
-kibana:7.14.0
+kibana:7.3.1
